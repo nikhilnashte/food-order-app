@@ -1,4 +1,4 @@
-Demo React food order app
+# Demo React food order app
 
 
 # Getting Started with Create React App
